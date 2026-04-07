@@ -68,7 +68,7 @@
 **IT Governance & Risk Intern** | *July – Dec 2025* | *GMF Aeroasia*
 * Conducted **IT Risk Assessments** and gap analysis using **ISO 27001** and **COBIT 2019** frameworks.
 * Prepared final audit reports and documented internal IT governance processes.
-* Anallyze further action for complying with EASA Part-IS (Information Security)
+* Anallyze further action for complying with **EASA Part-IS** (Information Security)
 
 🏛️ Organization & Leadership
 ** Informastion Material ** | *Feb 2023 - Nov 2024* | *SCHEMATICS BST*
