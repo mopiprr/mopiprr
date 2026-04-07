@@ -71,6 +71,6 @@
 * Anallyze further action for complying with **EASA Part-IS** (Information Security)
 
 🏛️ Organization & Leadership
-** Informastion Material ** | *Feb 2023 - Nov 2024* | *SCHEMATICS BST*
+**Informastion Material** | *Feb 2023 - Nov 2024* | *SCHEMATICS BST*
 * Research and prepare materials needed for technoological bootcamp
 * Research and looking for competent presenters for the material to be presented
