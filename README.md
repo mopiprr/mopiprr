@@ -6,6 +6,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mopipr) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mopi_pr) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affiramadhan0@gmail.com)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -74,3 +75,8 @@
 **Informastion Material** | *Feb 2023 - Nov 2024* | *SCHEMATICS BST*
 * Research and prepare materials needed for technoological bootcamp
 * Research and looking for competent presenters for the material to be presented
+
+## 🎮 Currently Working on
+* Finishing my final project of **creating a game map generator procedurally using Particle Swarm Optimization (PSO)**
+* Expanding 3D Modeling skill using **Blender**
+* Learn more about **Xtended Reality (XR) application**
